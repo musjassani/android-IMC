@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculerImcTxt">Calculate the IMC</string>
+    <string name="centimetreTxt">cm</string>
+    <string name="hintTxt">Click [Calculate the IMC] button to show the IMC</string>
+    <string name="megaFonctionTxt">Mega function !</string>
+    <string name="metreTxt">m</string>
+    <string name="poidsTxt">Weight</string>
+    <string name="razTxt">Reset</string>
+    <string name="resultatTxt">Result</string>
+    <string name="tailleTxt">Height</string>
+    <string name="formatNonValide">Your input is incorrect.</string>
+</resources>

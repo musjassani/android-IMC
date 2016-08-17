@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculerImcTxt">حساب مؤشر كتلة الجسم</string>
+    <string name="centimetreTxt">سنتيمتر</string>
+    <string name="hintTxt">يجب عليك النقر على زر [حساب مؤشر كتلة الجسم] للحصول على النتيجة.</string>
+    <string name="megaFonctionTxt">وظيفة</string>
+    <string name="metreTxt">متر</string>
+    <string name="poidsTxt">الوزن</string>
+    <string name="razTxt">إعادة تعيين</string>
+    <string name="resultatTxt">النتيجة:</string>
+    <string name="tailleTxt">حجم</string>
+    <string name="formatNonValide">الإدخال غير صحيح.</string>
+</resources>
